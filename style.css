@@ -1,0 +1,33 @@
+.Heading{
+    font-size: 23px;
+    background-color:lightcoral;
+    font-weight: bold;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px black;
+}
+
+.note{
+    width: 100%;
+    font-weight: 200;
+}
+
+.Copyright_Footer
+{
+    position: fixed;
+    bottom: 0;
+    line-height: 3;
+    text-align: center;
+    width: 100%;
+    background-color: darkslategrey;
+    color: rgb(4, 4, 37);
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+}
+
+canvas
+{
+    border: 5px dashed black;
+    border-radius: 20;
+    box-shadow: 5px 5px 5px black;
+}
